@@ -1,2 +1,7 @@
 We'll put some user info in here
+<<<<<<< HEAD
 [********]
+=======
+[PASSWORD]
+[USERNAME]
+>>>>>>> ec354b0... Added username to file
